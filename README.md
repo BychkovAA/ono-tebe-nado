@@ -1,1 +1,1 @@
-https://github.com/BychkovAA/ono-tebe-nado
+https://github.com/BychkovAA/ono-tebe-nado.git

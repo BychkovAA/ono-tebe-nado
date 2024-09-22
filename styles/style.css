@@ -108,7 +108,6 @@
 }
 
 .letter-spacing-extended {
-    letter-spacing: 100px;
     letter-spacing: 60px;
 }
 
@@ -250,7 +249,7 @@
     background-repeat: no-repeat;
 }
 
-.lots__look-more-link{
+.lots__look-more-link {
     width: 192px;
     height: 25px;
     margin-left: 40px;
@@ -261,7 +260,7 @@
     line-height: 23.48px;
 }
 
-.about{
+.about {
     display: flex;
     width: 1052px;
     min-height: 595px;
@@ -336,8 +335,6 @@
     list-style: none;
 }
 
-.footer__links-list-item {
-}
 
 .footer__links-list-item_no-bullit {
     list-style: none;
